@@ -1,0 +1,129 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    height: auto;
+    font-size: 16px;
+    font-family: 'S-core Dream', sans-serif;
+    font-weight: 400;
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #000;
+}
+
+a {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #000;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+input {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+input::-webkit-input-placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+input:-moz-placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+input::-moz-placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+input:-ms-input-placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+input::-ms-input-placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+input::placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+button {
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+table {
+    font-size: 1rem;
+    border-collapse: collapse;
+}
+
+select {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+textarea {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+textarea::-webkit-input-placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+textarea:-moz-placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+textarea::-moz-placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+textarea:-ms-input-placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+textarea::-ms-input-placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+textarea::placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+}
